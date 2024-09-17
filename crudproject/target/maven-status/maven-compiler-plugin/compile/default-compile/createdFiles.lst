@@ -1,0 +1,5 @@
+com\java\crudproject\entities\Product.class
+com\java\crudproject\service\ProductService.class
+com\java\crudproject\controller\ProductController.class
+com\java\crudproject\CrudprojectApplication.class
+com\java\crudproject\repository\ProductRepository.class
